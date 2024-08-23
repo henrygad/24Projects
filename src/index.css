@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+    --placeholder: block
+}
+/* 
+#initial:only-child:before{
+    content: attr(placeholder);
+    display: block;
+    position: absolute;
+}; */
